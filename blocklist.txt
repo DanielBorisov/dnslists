@@ -1,0 +1,9 @@
+# Missing Domains blocklist
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+widgets.pinterest.com
+metrics.data.hicloud.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics5.data.hicloud.com
