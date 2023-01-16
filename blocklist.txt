@@ -1,9 +1,15 @@
 # Missing Domains blocklist
+advice-ads.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
+ads.pinterest.com
 widgets.pinterest.com
 metrics.data.hicloud.com
 metrics1.data.hicloud.com
 metrics2.data.hicloud.com
 metrics5.data.hicloud.com
+ads.reddit.com
+ads.youtube.com
+ads-api.twitter.com
+ads.facebook.com
